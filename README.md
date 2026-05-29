@@ -1,6 +1,6 @@
 ### Hi, I'm Ismael 👋
 
-Front-End Developer based in Spain 🇪🇸, passionate about web technologies, performance, and Linux 🐧
+Front-End Developer passionate about web technologies, performance, and Linux 🐧
 
 I specialize in **Adobe Commerce (Magento)** and I've spent the last 6+ years building and optimizing high-traffic online stores. I really enjoy chasing fast load times, smooth UX, and clean code. I'm also an **Adobe Certified Front-End Developer**.
 
