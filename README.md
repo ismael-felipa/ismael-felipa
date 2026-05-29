@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Ismael 👋
 
-<!--
-**ismael-felipa/ismael-felipa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-End Developer based in Spain 🇪🇸, passionate about web technologies, performance, and Linux 🐧
 
-Here are some ideas to get you started:
+I specialize in **Adobe Commerce (Magento)** and I've spent the last 6+ years building and optimizing high-traffic online stores. I really enjoy chasing fast load times, smooth UX, and clean code. I'm also an **Adobe Certified Front-End Developer**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+These days I work a lot with **Next.js**, **GraphQL** and **Tailwind CSS**, building headless storefronts and keeping Core Web Vitals green.
+
+🛠️ JavaScript · TypeScript · PHP · Next.js · GraphQL · Tailwind · Adobe Commerce  
+⚡ Always optimizing something
+
+📫 Let's connect:
+[Website](https://www.ismael.is) · [LinkedIn](https://www.linkedin.com/in/ismaelfelipa) · [Email](mailto:ismael.felipa@gmail.com)
